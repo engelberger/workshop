@@ -1,0 +1,1 @@
+generate a detailed plan for my senior developer ai agent, that allows me to download 100 pdbs from the pdb and plots statistics about them, follow best practices, dont over engineer it, use test detailed logging to understand if the code is actually doing what it supposed to be doing, also use assertion to validate the data, dont over engineer it
